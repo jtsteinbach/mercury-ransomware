@@ -85,7 +85,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This tool is for **educational purposes only**. Do not use it for illegal or unethical activities. The author is not responsible for any misuse of this software. Always ensure you have proper authorization before using this tool in any environment.
 
----
-
-
-**Note**: Use this tool responsibly and only in environments where you have explicit permission to perform testing. Unauthorized use of this tool may violate laws and regulations.
+Use this tool responsibly and only in environments where you have explicit permission to perform testing. Unauthorized use of this tool may violate laws and regulations.
